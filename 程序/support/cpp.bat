@@ -1,0 +1,1 @@
+g++ E:/×ÀÃæ/code.cpp -o main

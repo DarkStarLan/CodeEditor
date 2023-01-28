@@ -1,0 +1,1 @@
+gcc E:/×ÀÃæ/Untitled.txt -o main
