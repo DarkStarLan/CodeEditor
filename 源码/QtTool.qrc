@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QtTool">
+        <file>IMG/icon.png</file>
+    </qresource>
+</RCC>
