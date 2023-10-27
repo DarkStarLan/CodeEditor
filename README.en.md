@@ -21,7 +21,7 @@ Manage support items
 2. Compile the project
 3. Add the necessary DLL files to the generated executable
 4. Manually configure the environment variables required for each language
-5. Note: The window command is used in this project, and it is recommended to adjust the encoding to ASCII when using the configuration file, Support for languages other than C/C++ is not guaranteed
+5. Note: The batch processing command is used in this project, and it is recommended to adjust the encoding to ASCII when using the configuration file, Support for languages other than C/C++ is not guaranteed
 
 #### Instructions for use
 
